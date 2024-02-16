@@ -31,3 +31,13 @@
 ## b) 周六中午12:00-晚上9:00
 ## （周日与公共假期除外），通过我们的线上反馈系统与我们的客服进行聊天。
 ## 备注：请务必收藏本页面，方便日后下载新版本（本页面为官方唯一防封下载发布页）Remarks: Please be sure to bookmark this page so that you can download new versions in the future (this page is the only official anti-blocking download release page)
+
+## rbg added 20240216
+问题一:如果windows设置了代理，无法保存怎么办？
+       网上尝试了各种办法都不行。最终使用搜狗浏览器解决：
+       ![image](https://github.com/grb2015/getaurora_VPN/assets/23501684/90899a4a-f06f-4bf0-a4cc-e5ad153459ae)
+
+       具体要设置怎样的代理，可以参考极光的页面
+       ![image](https://github.com/grb2015/getaurora_VPN/assets/23501684/c24fe7c6-3212-4bff-ae96-696b2cee8756)
+
+
