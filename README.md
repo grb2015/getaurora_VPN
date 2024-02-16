@@ -38,6 +38,7 @@
        ![image](https://github.com/grb2015/getaurora_VPN/assets/23501684/90899a4a-f06f-4bf0-a4cc-e5ad153459ae)
 
        具体要设置怎样的代理，可以参考极光的页面
+       
        ![image](https://github.com/grb2015/getaurora_VPN/assets/23501684/c24fe7c6-3212-4bff-ae96-696b2cee8756)
 
 
